@@ -104,12 +104,12 @@ const Navbar: React.FC = () => {
             ))}
             <div className="mt-4 pt-4 border-t border-white/10">
               <a
-                href="#join"
+                href="https://t.me/Decentracode"
                 className="flex items-center justify-center w-full btn-primary"
                 onClick={() => setIsOpen(false)}
               >
                 <Code2 className="mr-2 h-5 w-5" />
-                Join Waitlist For Next Cohort.
+                Join The Community.
               </a>
             </div>
           </div>
