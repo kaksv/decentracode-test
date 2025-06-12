@@ -51,7 +51,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.5 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <a href="#join" className="btn-primary px-8 py-4 text-lg w-full sm:w-auto">
+          <a href="https://www.youtube.com/@Decentracode" className="btn-primary px-8 py-4 text-lg w-full sm:w-auto">
             <Code className="mr-2 h-5 w-5" />
             Start Building
           </a>

@@ -23,7 +23,7 @@ function App() {
           <BuilderJourney />
           <Testimonials />
           {/* <Community /> */}
-          <CTA />
+          {/* <CTA /> */}
         </main>
         <Footer />
       </div>
