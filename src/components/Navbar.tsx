@@ -62,9 +62,9 @@ const Navbar: React.FC = () => {
           </div>
 
           <div className="hidden md:block">
-            <a href="#join" className="btn-primary">
+            <a href="https://t.me/Decentracode" className="btn-primary">
               <Code2 className="mr-2 h-5 w-5" />
-              Join Waitlist For Next Cohort.
+              Join The Community
             </a>
           </div>
 
